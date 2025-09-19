@@ -68,13 +68,13 @@ App will be running at:
 ## 📸 Screenshots
 
 ### 🔑 Login Page
-![Login Page](public/screenshots/login.png)
+![Login Page](login.png)
 
 ### 🗂️ Admin Dashboard
-![Admin Dashboard](public/screenshots/admin-dashboard.png)
+![Admin Dashboard](admin.png)
 
 ### 📋 Employee Dashboard
-![Employee Dashboard](public/screenshots/employee-dashboard.png)
+![Employee Dashboard](employee.png)
 
 ---
 
